@@ -1,7 +1,9 @@
-## Hi there 👋
+## Hello there!
 
+### Links
 [![Linkedin: kyleadams12](https://img.shields.io/badge/-kyleadams12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleadams12/)](https://www.linkedin.com/in/kyleadams12)[![GitHub adams-k](https://img.shields.io/github/followers/adams-k?label=follow&style=social)](https://github.com/adams-k)
 
+### Technologies
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
@@ -21,3 +23,6 @@
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?logo=sonarcloud&logoColor=fff)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
+
+### Certifications
+[![AWS Cloud Practitioner](https://www.credly.com/badges/cefccf39-befe-4a95-a930-abce45ad3d53/public_url)]
