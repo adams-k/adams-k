@@ -10,6 +10,7 @@
 ![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=d62728)
 ![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=9467bd)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=4B8BBE)
-![JavaScript](https://img.shields.io/badge/logo-javascript-blue?style=flat&logo=javascript&color=f5f5f5)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&color=f5f5f5)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=html&logoColor=white&color=0db7ed)
