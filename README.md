@@ -25,4 +25,4 @@
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?logo=confluence&logoColor=fff)
 
 ### Certifications
-[![AWS Cloud Practitioner](https://www.credly.com/badges/cefccf39-befe-4a95-a930-abce45ad3d53/public_url)]
+[![AWS Cloud Practitioner]([https://www.credly.com/badges/cefccf39-befe-4a95-a930-abce45ad3d53/public_url](https://images.credly.com/size/340x340/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png))]
