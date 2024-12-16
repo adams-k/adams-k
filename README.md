@@ -1,15 +1,8 @@
 ## Hi there 👋
 
-[![Linkedin: kyleadams12](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff))](https://www.linkedin.com/in/kyleadams12)[![GitHub adams-k](https://img.shields.io/github/followers/adams-k?label=follow&style=social)](https://github.com/adams-k)
+[![Linkedin: kyleadams12](https://img.shields.io/badge/-kyleadams12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleadams12/)](https://www.linkedin.com/in/kyleadams12)[![GitHub adams-k](https://img.shields.io/github/followers/adams-k?label=follow&style=social)](https://github.com/adams-k)
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?logo=amazon-web-services&logoColor=white)
-![EC2](https://img.shields.io/badge/Computer-EC2-informational?style=flat&logo=amazon-ec2&logoColor=white&color=ff7f0e)
-![API Gateway](https://img.shields.io/badge/API-Gateway-informational?style=flat&logo=amazon-api-gateway&logoColor=white&color=9467bd)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?logo=amazondynamodb&logoColor=fff)
-![Lambda](https://img.shields.io/badge/Compute-AWS_Lambda-informational?style=flat&logo=aws-lambda&logoColor=white&color=ff7f0e)
-![S3](https://img.shields.io/badge/Storage-S3-informational?style=flat&logo=amazon-s3&logoColor=white&color=2ca02c)
-![IAM](https://img.shields.io/badge/Security-IAM-informational?style=flat&logo=amazon-iam&logoColor=white&color=d62728)
-![VPC](https://img.shields.io/badge/Network-VPC-informational?style=flat&logo=amazon-vpc&logoColor=white&color=9467bd)
 ![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
 ![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)
