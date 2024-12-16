@@ -26,4 +26,4 @@
 
 ### Certifications
 
-![Cert](https://github.com/user-attachments/assets/992d3484-535a-4b48-8d1b-d160b42186b6)
+<img src="https://github.com/user-attachments/assets/992d3484-535a-4b48-8d1b-d160b42186b6" width="200">
