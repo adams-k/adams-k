@@ -16,3 +16,4 @@
 ![HTML](https://img.shields.io/badge/Code-HTML-informational?style=flat&logoColor=white&color=f06529)
 ![CSS](https://img.shields.io/badge/Code-CSS-informational?style=flat&logoColor=white&color=2965f1)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)]
