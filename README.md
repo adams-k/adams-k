@@ -1,4 +1,6 @@
-<img src="https://github.com/user-attachments/assets/11ca5178-e24d-40c5-8eac-76409115fdc6" align="center"/>
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/11ca5178-e24d-40c5-8eac-76409115fdc6"/>
+</p>
 
 ### Links
 [![Linkedin: kyleadams12](https://img.shields.io/badge/-kyleadams12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleadams12/)](https://www.linkedin.com/in/kyleadams12)[![GitHub adams-k](https://img.shields.io/github/followers/adams-k?label=follow&style=social)](https://github.com/adams-k)
