@@ -1,6 +1,5 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/11ca5178-e24d-40c5-8eac-76409115fdc6"/>
-</p>
+<p> align="center">
+<img src="https://github.com/user-attachments/assets/11ca5178-e24d-40c5-8eac-76409115fdc6"/>
 
 ### Links
 [![Linkedin: kyleadams12](https://img.shields.io/badge/-kyleadams12-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kyleadams12/)](https://www.linkedin.com/in/kyleadams12)[![GitHub adams-k](https://img.shields.io/github/followers/adams-k?label=follow&style=social)](https://github.com/adams-k)
@@ -29,3 +28,5 @@
 ### Certifications
 
 <img src="https://github.com/user-attachments/assets/992d3484-535a-4b48-8d1b-d160b42186b6" width="100">
+
+</p>
