@@ -13,4 +13,4 @@
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat&logo=javascript&color=f5f5f5)
 ![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=openjdk&logoColor=white&color=007396)
 ![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=0db7ed)
-![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=html&logoColor=white&color=0db7ed)
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=css&logoColor=white&color=0db7ed)
