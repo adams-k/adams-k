@@ -1,4 +1,4 @@
-<p> align="center">
+<p align="center">
 <img src="https://github.com/user-attachments/assets/11ca5178-e24d-40c5-8eac-76409115fdc6"/>
 
 ### Links
