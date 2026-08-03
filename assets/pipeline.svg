@@ -1,0 +1,124 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="220" viewBox="0 0 900 220" role="img" aria-label="Animated CI/CD pipeline: Code, Build, Test, Deploy, Prod">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="100%" stop-color="#161b22"/>
+    </linearGradient>
+    <pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse">
+      <circle cx="1" cy="1" r="1" fill="#21262d"/>
+    </pattern>
+  </defs>
+
+  <!-- panel -->
+  <rect x="0" y="0" width="900" height="220" rx="14" fill="url(#bg)"/>
+  <rect x="0" y="0" width="900" height="220" rx="14" fill="url(#grid)"/>
+  <rect x="0.5" y="0.5" width="899" height="219" rx="14" fill="none" stroke="#30363d"/>
+
+  <!-- header -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace">
+    <circle cx="26" cy="30" r="4" fill="#3fb950">
+      <animate attributeName="opacity" values="1;0.25;1" dur="2s" repeatCount="indefinite"/>
+    </circle>
+    <text x="40" y="34" font-size="12" fill="#8b949e" letter-spacing="1.5">DEPLOY PIPELINE</text>
+    <text x="874" y="34" font-size="12" fill="#6e7681" text-anchor="end">kyle adams · devops</text>
+  </g>
+
+  <!-- rail -->
+  <line x1="90" y1="115" x2="810" y2="115" stroke="#30363d" stroke-width="3" stroke-linecap="round"/>
+  <line x1="90" y1="115" x2="810" y2="115" stroke="#3fb950" stroke-width="3" stroke-linecap="round"
+        stroke-dasharray="720" stroke-dashoffset="720">
+    <animate attributeName="stroke-dashoffset"
+             values="720;720;540;540;360;360;180;180;0;0"
+             keyTimes="0;0.05;0.2;0.25;0.4;0.45;0.6;0.65;0.8;1"
+             dur="10s" repeatCount="indefinite"/>
+  </line>
+
+  <!-- flare rings -->
+  <g fill="none" stroke="#3fb950" stroke-width="2">
+    <circle cx="90" cy="115" r="16" opacity="0">
+      <animate attributeName="r" values="16;16;34;34" keyTimes="0;0;0.06;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0;0.06;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="115" r="16" opacity="0">
+      <animate attributeName="r" values="16;16;34;34" keyTimes="0;0.2;0.26;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.2;0.26;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="115" r="16" opacity="0">
+      <animate attributeName="r" values="16;16;34;34" keyTimes="0;0.4;0.46;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.4;0.46;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="630" cy="115" r="16" opacity="0">
+      <animate attributeName="r" values="16;16;34;34" keyTimes="0;0.6;0.66;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.6;0.66;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="810" cy="115" r="16" opacity="0">
+      <animate attributeName="r" values="16;16;34;34" keyTimes="0;0.8;0.86;1" dur="10s" repeatCount="indefinite"/>
+      <animate attributeName="opacity" values="0;0.8;0;0" keyTimes="0;0.8;0.86;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- nodes -->
+  <g fill="#0d1117" stroke-width="2.5">
+    <circle cx="90" cy="115" r="16" stroke="#30363d">
+      <animate attributeName="stroke" values="#30363d;#3fb950;#3fb950" keyTimes="0;0.02;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="115" r="16" stroke="#30363d">
+      <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950" keyTimes="0;0.2;0.22;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="115" r="16" stroke="#30363d">
+      <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950" keyTimes="0;0.4;0.42;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="630" cy="115" r="16" stroke="#30363d">
+      <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950" keyTimes="0;0.6;0.62;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="810" cy="115" r="16" stroke="#30363d">
+      <animate attributeName="stroke" values="#30363d;#30363d;#3fb950;#3fb950" keyTimes="0;0.8;0.82;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- node cores -->
+  <g stroke="none">
+    <circle cx="90" cy="115" r="5" fill="#484f58">
+      <animate attributeName="fill" values="#484f58;#3fb950;#3fb950" keyTimes="0;0.02;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="270" cy="115" r="5" fill="#484f58">
+      <animate attributeName="fill" values="#484f58;#484f58;#3fb950;#3fb950" keyTimes="0;0.2;0.22;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="450" cy="115" r="5" fill="#484f58">
+      <animate attributeName="fill" values="#484f58;#484f58;#3fb950;#3fb950" keyTimes="0;0.4;0.42;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="630" cy="115" r="5" fill="#484f58">
+      <animate attributeName="fill" values="#484f58;#484f58;#3fb950;#3fb950" keyTimes="0;0.6;0.62;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="810" cy="115" r="5" fill="#484f58">
+      <animate attributeName="fill" values="#484f58;#484f58;#3fb950;#3fb950" keyTimes="0;0.8;0.82;1" dur="10s" repeatCount="indefinite"/>
+    </circle>
+  </g>
+
+  <!-- travelling pulse -->
+  <g>
+    <circle r="11" fill="#58a6ff" opacity="0.2"/>
+    <circle r="5" fill="#58a6ff"/>
+    <animateMotion dur="10s" repeatCount="indefinite" path="M90,115 L810,115" calcMode="linear"
+                   keyPoints="0;0;0.25;0.25;0.5;0.5;0.75;0.75;1;1"
+                   keyTimes="0;0.05;0.2;0.25;0.4;0.45;0.6;0.65;0.8;1"/>
+  </g>
+
+  <!-- labels -->
+  <g font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, monospace" text-anchor="middle">
+    <g font-size="14" fill="#c9d1d9" font-weight="600">
+      <text x="90"  y="165">Code</text>
+      <text x="270" y="165">Build</text>
+      <text x="450" y="165">Test</text>
+      <text x="630" y="165">Deploy</text>
+      <text x="810" y="165">Prod</text>
+    </g>
+    <g font-size="11" fill="#6e7681">
+      <text x="90"  y="186">git</text>
+      <text x="270" y="186">docker</text>
+      <text x="450" y="186">sonarcloud</text>
+      <text x="630" y="186">terraform · helm</text>
+      <text x="810" y="186">kubernetes · aws</text>
+    </g>
+  </g>
+</svg>
